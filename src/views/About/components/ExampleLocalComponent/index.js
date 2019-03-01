@@ -1,0 +1,1 @@
+// example local component for this view only. If component is used more then move it to shared
